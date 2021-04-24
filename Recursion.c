@@ -1,6 +1,6 @@
 /* Program in C to find the  LCM of two numbers using recursion.*/
 #include <stdio.h>
-int LCMsolv(int x,int y);
+int lcmsolv(int x,int y);
 int main()
 {
     int no1,no2,lcm;
